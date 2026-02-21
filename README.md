@@ -105,12 +105,6 @@ This project is for educational purposes based on the Kaggle competition dataset
 
 ---
 
-## Author
-
-**Valen**  
-Contact: [Your Email/GitHub]
-
----
 
 If you find this project helpful, please consider giving it a star!
 
